@@ -1,5 +1,8 @@
 # gh-release changelog
 
+## 1.0.3 - 2015-03-08
+* Testing out the new gh-release with path parameters
+
 ## 1.0.2 - 2015-03-01
 * double checking refactoring
 
