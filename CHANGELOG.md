@@ -1,5 +1,8 @@
 # gh-release changelog
 
+## 1.0.4 - 2015-03-08
+* testing attaching files to releases
+
 ## 1.0.3 - 2015-03-08
 * Testing out the new gh-release with path parameters
 
