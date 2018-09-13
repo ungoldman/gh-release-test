@@ -1,6 +1,6 @@
 {
   "name": "gh-release-test",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bcomnes/gh-release-test/issues"
   },
-  "homepage": "https://github.com/bcomnes/gh-release-test"
+  "homepage": "https://github.com/bcomnes/gh-release-test",
+  "dependencies": {
+    "gh-release": "^3.3.1"
+  }
 }

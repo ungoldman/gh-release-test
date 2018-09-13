@@ -1,5 +1,8 @@
 # gh-release changelog
 
+## 1.0.5 - 2018-09-11
+* why is v3.0.3 failing?
+
 ## 1.0.4 - 2015-03-08
 * testing attaching files to releases
 
