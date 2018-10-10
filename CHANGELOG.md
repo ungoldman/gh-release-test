@@ -1,5 +1,8 @@
 # gh-release changelog
 
+## 1.0.7 - 2018-10-10
+* testing asset upload progress indicator
+
 ## 1.0.6 - 2018-09-11
 * why is v3.0.3 failing?
 
