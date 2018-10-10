@@ -1,5 +1,8 @@
 # gh-release changelog
 
+## 1.0.8 - 2018-10-10
+* testing asset upload progress indicator x 2
+
 ## 1.0.7 - 2018-10-10
 * testing asset upload progress indicator
 
