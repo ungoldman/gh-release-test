@@ -1,23 +1,23 @@
 {
   "name": "gh-release-test",
-  "version": "1.0.8",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hypermodules/gh-release-test.git"
-  },
+  "version": "1.0.8",
   "author": "",
-  "private": true,
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bcomnes/gh-release-test/issues"
+    "url": "https://github.com/ungoldman/gh-release-test/issues"
   },
-  "homepage": "https://github.com/bcomnes/gh-release-test",
   "dependencies": {
     "gh-release": "^6.0.3"
+  },
+  "homepage": "https://github.com/ungoldman/gh-release-test",
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ungoldman/gh-release-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
