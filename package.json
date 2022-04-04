@@ -11,6 +11,7 @@
     "url": "https://github.com/hypermodules/gh-release-test.git"
   },
   "author": "",
+  "private": true,
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bcomnes/gh-release-test/issues"
