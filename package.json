@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bcomnes/gh-release-test",
   "dependencies": {
-    "gh-release": "^3.3.1"
+    "gh-release": "^6.0.3"
   }
 }
