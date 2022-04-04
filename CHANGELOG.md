@@ -1,5 +1,14 @@
 # gh-release changelog
 
+## 1.0.9 - 2022-04-04
+
+### Maintenance
+* test: testing latest CLI output
+* deps: gh-release@6
+* pkg: set package to private
+* pkg: update repo URLs
+* misc: ignore package-lock.json
+
 ## 1.0.8 - 2018-10-10
 * testing asset upload progress indicator x 2
 
